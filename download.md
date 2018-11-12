@@ -1,5 +1,5 @@
 ---
-title: Download | Rex's Homepage
+title: Download
 ---
 ###  Menu
 
