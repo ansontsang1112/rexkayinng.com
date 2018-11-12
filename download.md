@@ -1,5 +1,3 @@
-## Download
-
 ###  Menu
 
 - [Home](http://rexkayinng.com/)
@@ -10,5 +8,7 @@
 
 - [Download](http://rexkayinng.com/download)
 
+
+## Download
 
 - [My PGP Public Key](rexkayinng.com/download-files/public-keys/public-key-rexkng-rsa2048.asc)
