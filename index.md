@@ -4,7 +4,7 @@ I am a student interested in Biochemistry, Molecular Biology, and Genetics.
 
 email: rex@rexkayinng.com
 
-[Click here to  email to me now](mailto: rex@rexkayinng.com)
+[Click here to email to me now](mailto: rex@rexkayinng.com)
 
 Feel free to encrypt the message with my PGP public key (RSA).
 
