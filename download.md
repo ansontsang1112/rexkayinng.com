@@ -1,4 +1,4 @@
-<title>"Download | Rex's Homepage"</title>
+<title>Download</title>
   
 ###  Menu
 
