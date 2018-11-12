@@ -1,5 +1,16 @@
 ## Contact Me
 
+###  Menu
+
+- [Home](http://rexkayinng.com/)
+
+- [About Me](http://rexkayinng.com/about/)
+
+- [Contact Me](http://rexkayinng.com/contact/)
+
+- [Download](http://rexkayinng.com/download)
+
+
 email: rex@rexkayinng.com
 
 [Click here to send email to me now](mailto: rex@rexkayinng.com)
