@@ -10,5 +10,5 @@ email: rex@rexkayinng.com
 
 
 ```markdown
-site is being construction
+site is in construction.
 ```
