@@ -4,8 +4,8 @@
 
 - [Home](http://rexkayinng.com/)
 
-- [About Me](http://rexkayinng.com/about/)
+- [About Me](http://rexkayinng.com/about)
 
-- [Contact Me](http://rexkayinng.com/contact/)
+- [Contact Me](http://rexkayinng.com/contact)
 
 - [Download](http://rexkayinng.com/download)
