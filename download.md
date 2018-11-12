@@ -1,3 +1,5 @@
+<title>"Download | Rex's Homepage"</title>
+  
 ###  Menu
 
 - [Home](http://rexkayinng.com/)
@@ -11,4 +13,4 @@
 
 ## Download
 
-- [My PGP Public Key](rexkayinng.com/download-files/public-keys/public-key-rexkng-rsa2048.asc)
+- [My PGP Public Key](http://rexkayinng.com/download-files/public-keys/public-key-rexkng-rsa2048.asc)
