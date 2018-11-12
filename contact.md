@@ -1,5 +1,3 @@
-## Contact Me
-
 ###  Menu
 
 - [Home](http://rexkayinng.com/)
@@ -10,6 +8,8 @@
 
 - [Download](http://rexkayinng.com/download)
 
+
+## Contact Me
 
 email: rex@rexkayinng.com
 
